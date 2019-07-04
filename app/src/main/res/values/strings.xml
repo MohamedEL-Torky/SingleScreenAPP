@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Universe GYM B-Card</string>
+    <string name="image_description">Universe GYM image</string>
+    <string name="tittle">Universe GYM</string>
+    <string name="address">26 Mars Avenue</string>
+    <string name="phone">(541) 123&#8211;4567</string>
+    <string name="working_hours">10:00 AM &#8211; 02:00 AM</string>
+    <string name="email">contacts@universe&#8211;gym.com"</string>
+    <string name="about_us">About us:</string>
+    <string name="description">In Universe GYM we promise a world-class certified personal trainers,
+        energetic class instructors, and innovative fitness programs – we have the coaching,
+        programs, and experience you need to help you achieve your fitness goals.</string>
+</resources>
